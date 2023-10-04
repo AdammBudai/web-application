@@ -1,0 +1,24 @@
+{
+  "dependencies": {
+    "mssql1": {
+      "restored": true,
+      "restoreTime": "2023-10-03T15:49:29.5029596Z"
+    },
+    "secrets1": {
+      "restored": true,
+      "restoreTime": "2023-10-03T15:48:55.8285676Z"
+    }
+  },
+  "parameters": {
+    "mssql1.subscriptionId": {
+      "Name": "mssql1.subscriptionId",
+      "Type": "subscription",
+      "Value": "8aff4b2a-edec-4d1d-8d4e-dab60c0a2e03"
+    },
+    "mssql1.resourceGroupName": {
+      "Name": "mssql1.resourceGroupName",
+      "Type": "resourceGroup",
+      "Value": "new_sql_for_theater"
+    }
+  }
+}

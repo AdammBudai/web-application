@@ -1,0 +1,15 @@
+D:\C#Projects\TheaterEventPlanning\TheaterEventPlanning.client\bin\Debug\net7.0\TheaterEventPlanning.client.exe
+D:\C#Projects\TheaterEventPlanning\TheaterEventPlanning.client\bin\Debug\net7.0\TheaterEventPlanning.client.deps.json
+D:\C#Projects\TheaterEventPlanning\TheaterEventPlanning.client\bin\Debug\net7.0\TheaterEventPlanning.client.runtimeconfig.json
+D:\C#Projects\TheaterEventPlanning\TheaterEventPlanning.client\bin\Debug\net7.0\TheaterEventPlanning.client.dll
+D:\C#Projects\TheaterEventPlanning\TheaterEventPlanning.client\bin\Debug\net7.0\TheaterEventPlanning.client.pdb
+D:\C#Projects\TheaterEventPlanning\TheaterEventPlanning.client\obj\Debug\net7.0\TheaterEventPlanning.client.csproj.AssemblyReference.cache
+D:\C#Projects\TheaterEventPlanning\TheaterEventPlanning.client\obj\Debug\net7.0\TheaterEventPlanning.client.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#Projects\TheaterEventPlanning\TheaterEventPlanning.client\obj\Debug\net7.0\TheaterEventPlanning.client.AssemblyInfoInputs.cache
+D:\C#Projects\TheaterEventPlanning\TheaterEventPlanning.client\obj\Debug\net7.0\TheaterEventPlanning.client.AssemblyInfo.cs
+D:\C#Projects\TheaterEventPlanning\TheaterEventPlanning.client\obj\Debug\net7.0\TheaterEventPlanning.client.csproj.CoreCompileInputs.cache
+D:\C#Projects\TheaterEventPlanning\TheaterEventPlanning.client\obj\Debug\net7.0\TheaterEventPlanning.client.dll
+D:\C#Projects\TheaterEventPlanning\TheaterEventPlanning.client\obj\Debug\net7.0\refint\TheaterEventPlanning.client.dll
+D:\C#Projects\TheaterEventPlanning\TheaterEventPlanning.client\obj\Debug\net7.0\TheaterEventPlanning.client.pdb
+D:\C#Projects\TheaterEventPlanning\TheaterEventPlanning.client\obj\Debug\net7.0\TheaterEventPlanning.client.genruntimeconfig.cache
+D:\C#Projects\TheaterEventPlanning\TheaterEventPlanning.client\obj\Debug\net7.0\ref\TheaterEventPlanning.client.dll
