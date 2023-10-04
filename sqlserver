@@ -1,0 +1,6 @@
+# if there were any issues with SQL Server ->
+#servername = "theaterevents.database.windows.net"
+# password = "events_for_theater1"
+# username = "sqladmin"
+
+
